@@ -2,6 +2,10 @@
 
 ## Overview
 
+The purpose of this analysis it to create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment of Accountability Accounting. 
+
+## Results
+
 * Preprocessing the Data for PCA
 
 ![crypto_df](https://user-images.githubusercontent.com/102264298/182244661-56bf7885-b609-4843-9e52-dd4c56d69f3a.png)
@@ -24,4 +28,4 @@
 
 ![hvplot](https://user-images.githubusercontent.com/102264298/182244726-a8533166-4c32-471a-93bb-4a03af2209d8.png)
 
-## Results
+
